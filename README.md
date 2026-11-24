@@ -1,8 +1,8 @@
 # Charm the Commuter: Forecast a City That Isn't
 
 [![make.fun](https://make.fun/badge/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e.svg)](https://make.fun/competitions/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e)
-[![Rank](https://make.fun/badge/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e/rank.svg)](https://make.fun/competitions/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e)
-[![Reward](https://make.fun/badge/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e/reward.svg)](https://make.fun/competitions/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e)
+[![Rank](https://make.fun/badge/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e/kimbaex07/commuter-forecast/rank.svg)](https://make.fun/competitions/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e)
+[![Reward](https://make.fun/badge/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e/kimbaex07/commuter-forecast/reward.svg)](https://make.fun/competitions/u-golden-heron-44-charm-the-commuter-forecast-a-city-4018259e)
 
 One line of weather for a city that does not exist — written to make a bored commuter smile at a rainy bus stop.
 
